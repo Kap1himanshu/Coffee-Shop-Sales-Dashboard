@@ -133,8 +133,11 @@ Side-by-side comparison of high vs low performers to support strategic decisions
 • Promotional Strategy: Boost low-performing products during slow hours  
 • Revenue Maximization: Identify best-selling time slots for marketing focus  
 
+
+
+
 ---
 
-## 🔁 Project Workflow
+https://github.com/Kap1himanshu/Coffee-Shop-Sales-Dashboard/blob/main/image.png
 
 Raw Excel Data → SQL Aggregation & Cleaning → Data Validation → Power BI Dashboard Development → Business Recommendations
